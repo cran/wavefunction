@@ -1,0 +1,8 @@
+c9ae766082e39c23f0ebf57abad96a54 *DESCRIPTION
+9461d493f1bd485208af78b47d770905 *NAMESPACE
+b79be6aa7cad791d9d784ca0aadb5ec7 *R/wavefunction.R
+da287e871ea0d1e2c694b0c8a23ea175 *man/dwavefunction.Rd
+1e16077ecebde29cb1a68ae3eba100f8 *man/wavefunction_fit.Rd
+576a0cbda3f3b2d262b41e450f1399de *tests/testthat.R
+ff072b60d1737be23357c923ea5d6a6d *tests/testthat/test_lint.R
+69c9bae7dbec676cd69f26a19bcbaa37 *tests/testthat/test_wavefunction.R
